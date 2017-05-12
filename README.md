@@ -33,6 +33,6 @@ ppi(1980, 1080, 13.3) // 166
 
 [Fabio Cortés](https://twitter.com/fabiojcortes)
 
-##License
+## License
 
 [MIT](https://opensource.org/licenses/MIT)
