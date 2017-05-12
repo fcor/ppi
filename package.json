@@ -1,0 +1,28 @@
+{
+  "name": "ppicalculator",
+  "version": "1.0.0",
+  "description": "PPI calculator for screens",
+  "main": "dist/src/dpi.js",
+  "scripts": {
+    "build": "babel src/dpi.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Litz15/ppi.git"
+  },
+  "keywords": [
+    "ppi",
+    "calculator",
+    "javascript",
+    "js"
+  ],
+  "author": "Fabio Cortés <fcor14@hotmail.com> (https://twitter.com/fabiojcortes)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
