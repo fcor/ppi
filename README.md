@@ -17,7 +17,9 @@ npm install ppicalculator
 ppi(hRes, vRes, diagSize)
 
 hRes: Horizontal resolution in Pixels
+
 vRes: Vertical resolution in Pixels
+
 diagSize: Diagonal size in inches
 
 ```
